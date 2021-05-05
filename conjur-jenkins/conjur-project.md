@@ -23,4 +23,4 @@ Let's test the setup by copying & updating the project
 
 7. Click Save
 
-8. Let's verify the setup by clicking Build Now 
+8. Let's verify the setup by clicking Build Now. A new build history should appear.
